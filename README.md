@@ -2,8 +2,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmw0YnNmN251ejExcnZ1cTdkODFzN3IzemNyemJwNTgwZnI5ODJicyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZEbJq0qYvAWxcLvzxT/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmw0YnNmN251ejExcnZ1cTdkODFzN3IzemNyemJwNTgwZnI5ODJicyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZEbJq0qYvAWxcLvzxT/giphy.gif"  />
 </div>
 
 ###
